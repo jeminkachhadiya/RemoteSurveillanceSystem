@@ -41,6 +41,7 @@ results*.csv
 coco/
 coco128/
 VOC/
+simple_images/
 
 coco2017labels-segments.zip
 test2017.zip
@@ -261,3 +262,6 @@ com_crashlytics_export_strings.xml
 crashlytics.properties
 crashlytics-build.properties
 fabric.properties
+
+# Google Drive
+*desktop.ini

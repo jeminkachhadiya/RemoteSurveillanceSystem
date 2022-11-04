@@ -35,3 +35,9 @@ thop  # FLOPs computation
 # albumentations>=1.0.3
 # pycocotools>=2.0  # COCO mAP
 # roboflow
+
+# Image Download ------------------------------
+simple_image_download==0.4
+
+# Image annotation ----------------------------
+labelImg
