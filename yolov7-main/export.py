@@ -169,7 +169,7 @@ if __name__ == '__main__':
                 for j in i.type.tensor_type.shape.dim:
                     j.dim_param = str(shapes.pop(0))
 
-        # print(onnx.helper.printable_graph(onnx_model.graph))  # print a human readable model
+        print(onnx.helper.printable_graph(onnx_model.graph))  # print a human readable model
 
         # # Metadata
         # d = {'stride': int(max(model.stride))}
