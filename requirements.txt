@@ -3,3 +3,8 @@ simple_image_download==0.4
 
 # Image annotation ----------------------------
 labelImg
+
+# OpenCV --------------------------------------
+argparse
+pafy
+youtube-dl
